@@ -1,0 +1,32 @@
+.cart-container{
+padding:20px;
+}
+
+.cart-heading{
+  text-align: center;
+}
+
+.cart-card{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 2rem;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  background-color: #fff;
+  margin: 10px;
+}
+
+.cart-card-img{
+height: 7rem;
+}
+
+.cart-remove-btn{
+  background-color: #ED2939;
+}
+
+.cart-remove-btn:hover{
+  background-color: #db0b1d;
+}
