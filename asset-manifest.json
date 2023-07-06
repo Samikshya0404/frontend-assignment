@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Samikshya0404/frontend-assignment/static/css/main.4b1c9d8d.css",
+    "main.js": "/Samikshya0404/frontend-assignment/static/js/main.013707fc.js",
+    "index.html": "/Samikshya0404/frontend-assignment/index.html",
+    "main.4b1c9d8d.css.map": "/Samikshya0404/frontend-assignment/static/css/main.4b1c9d8d.css.map",
+    "main.013707fc.js.map": "/Samikshya0404/frontend-assignment/static/js/main.013707fc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b1c9d8d.css",
+    "static/js/main.013707fc.js"
+  ]
+}
